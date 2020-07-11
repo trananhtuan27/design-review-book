@@ -1,0 +1,310 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  margin-top: 40px;
+}
+.margin-header {
+  margin-left: 20px;
+}
+.menu ul {
+  list-style: none;
+  display: flex;
+}
+
+.header-end-content {
+  display: flex;
+}
+
+.content-left {
+    padding-left: 15px;
+    padding-bottom: 69px;
+    padding-top: 232px;
+    background-repeat: no-repeat;
+  background-image: url("/assets/image/review-sach-hay-nhưng-thang-nam-ruc-ro-cover.jpg");
+}
+
+
+.content-left p{
+  margin-right: 30px;
+  font-size: 32px;
+  line-height: 35px;
+  color: aliceblue;
+}
+.content-left span{
+  
+  color: aliceblue;
+}
+
+.content-right{
+ 
+  padding-bottom: 25px;
+  padding-left: 10px;
+  padding-top: 76px;
+background-image: url(../image/cover-reviewsach.net-am-thanh-va-cuong-no-265x198.jpg);
+background-repeat: no-repeat;
+}
+.content-right p{
+color: white;
+padding-right: 40px;
+}
+
+.contents-right {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.title-left {
+  border-bottom: 2px solid;
+}
+.title-left a{
+  color: white;
+ background-color: black;
+}
+
+.title-right {
+  border-bottom: 2px solid;
+}
+.title-right a{
+  color: white;
+ background-color: black;
+}
+
+.footer {
+  margin-top: 70px;
+  background-color: #0D0D0D;
+}
+
+
+.footer-top {
+  height: 110px;
+  padding-right: 120px;
+  padding-left: 120px;
+  justify-content: space-between;
+  display: flex;
+  color: white;
+  align-items: center;
+}
+.face {
+  display: flex;
+}
+.face i{
+  color: antiquewhite;
+}
+.face a{
+  margin-left: 15px;
+  border-radius: 50px;
+  padding-top: 5px;
+    padding-left: 9px;
+ width: 30px;
+ height: 30px;
+ border: 1px solid white;
+}
+.face p{
+  margin-left: 15px;
+}
+.linkedin {
+  display: flex;
+}
+.linkedin i{
+  color: antiquewhite;
+}
+.linkedin a{
+  border-radius: 50px;
+  padding-top: 5px;
+    padding-left: 9px;
+ width: 30px;
+ height: 30px;
+ border: 1px solid white;
+}
+.linkedin p{
+  margin-left: 15px;
+}
+.pinterest {
+  display: flex;
+}
+.pinterest i{
+  color: antiquewhite;
+}
+.pinterest a{
+  border-radius: 50px;
+  padding-top: 5px;
+    padding-left: 9px;
+ width: 30px;
+ height: 30px;
+ border: 1px solid white;
+}
+.pinterest p{
+  margin-left: 15px;
+}
+.reddit {
+  display: flex;
+}
+.reddit i{
+  color: antiquewhite;
+}
+.reddit a{
+  border-radius: 50px;
+  padding-top: 5px;
+    padding-left: 9px;
+ width: 30px;
+ height: 30px;
+ border: 1px solid white;
+}
+.reddit p{
+  margin-left: 15px;
+}
+
+.twitter {
+  display: flex;
+}
+.twitter i{
+  color: antiquewhite;
+}
+.twitter a{
+  border-radius: 50px;
+  padding-top: 5px;
+    padding-left: 9px;
+ width: 30px;
+ height: 30px;
+ border: 1px solid white;
+}
+.twitter p{
+  margin-left: 15px;
+}
+.youtube {
+  display: flex;
+}
+.youtube i{
+  color: antiquewhite;
+}
+.youtube a{
+  border-radius: 50px;
+  padding-top: 5px;
+    padding-left: 9px;
+ width: 30px;
+ height: 30px;
+ border: 1px solid white;
+}
+
+.youtube p{
+  margin-left: 15px;
+}
+.footer-end{
+  background-color: #0D0D0D;
+}
+.footer-end{
+  color: white;
+}
+
+.footer-end-content {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-end-content p{
+font-size: 12px;
+}
+.footer-end-row {
+  display: flex;
+}
+
+.footer-end-content ul{
+  display: flex;
+  font-size: 12px;
+}
+
+.footer-end-content li{
+list-style: none;
+}
+.footer-end-content a{
+  color: white;
+  margin-left: 15px;
+
+}
+
+.footer-end-content a:hover{
+  color:greenyellow;
+ 
+text-decoration: none;
+}
+
+
+.col-left-content a{
+ 
+  color: black;
+  font-size: 25px;
+}
+
+.col-left-content a:hover{
+  color: green;
+ 
+}
+.col-left-content b{
+  padding-top: 20px;
+ 
+}
+.col-left-content img{
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.col-left-content p{
+  font-size: 13px;
+    color: #777;
+    font-family: 'Open Sans', arial, sans-serif;
+    margin-top: 9px;
+}
+.col-left-content span{
+  font-size: 13px;
+    color: #777;
+    font-family: 'Open Sans', arial, sans-serif;
+    margin-top: 9px;
+}
+
+.content-detective-left {
+  margin-top: 20px;
+  display: flex;
+}
+.text-content-detective-left {
+  margin-left: 5px;
+}
+.text-content-detective-left a{
+  color: #777;
+}
+.text-content-detective-left a:hover{
+  color: green;
+  text-decoration: none;
+}
+.text-content-detective-left {
+  font-size: 13px;
+  color: #777;
+  font-family: 'Open Sans', arial, sans-serif;
+  margin-top: 9px;
+}
+
+.next {
+  display: flex;
+}
+
+.marketin a{
+  
+  font-size: 16px;
+}
+.content-detective-left2 {
+  margin-top: 50px;
+}
+.title5 a{
+  color: black;
+  text-decoration: none;
+}
+
+.col-left-review a{
+  text-decoration: none;
+  color: #111111;
+}
+.col-left-review a:hover{
+  text-decoration: none;
+  color: greenyellow;
+}
